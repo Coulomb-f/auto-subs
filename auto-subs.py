@@ -20,7 +20,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 #
-# Support development of this script by buying me a coffee: https://www.buymeacoffee.com/tmoroney
+# I just made these changes as a test. I am not the original author of this script.
 #
 
 import stable_whisper
